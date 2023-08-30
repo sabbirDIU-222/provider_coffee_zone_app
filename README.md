@@ -1,16 +1,6 @@
 # coffee_zone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/sabbirDIU-222/provider_coffee_zone_app/assets/57146729/4b103a80-9bff-4aff-a956-9c1974437392)
+![image](https://github.com/sabbirDIU-222/provider_coffee_zone_app/assets/57146729/42e2e6db-3f08-4a12-9ccc-937c3beb759b)
+![image](https://github.com/sabbirDIU-222/provider_coffee_zone_app/assets/57146729/c12bbeee-caf3-42b7-b327-eb917a754f97)
+![image](https://github.com/sabbirDIU-222/provider_coffee_zone_app/assets/57146729/d749cdaf-a8cd-41ac-891f-df0b2307120b)
